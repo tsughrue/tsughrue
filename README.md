@@ -8,7 +8,7 @@
 
 ## whoami
 
-I'm a software developer and financial data professional pursuing a part-time MS in Computer Science and AI at Boston University. I enjoy building systems from the ground up and finding smarter, faster ways to solve difficult problems.
+A software developer and financial data professional pursuing a part-time MS in Computer Science and AI at Boston University. I enjoy building systems from the ground up and finding smarter, faster ways to solve difficult problems.
 
 ## cat focus.txt
 
