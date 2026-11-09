@@ -32,7 +32,7 @@ I'm a software developer and financial data professional pursuing a part-time MS
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,vscode,windows,linux,git,mysql,java,c&perline=4&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,vscode,windows,linux,git,mysql,java,c&theme=dark" />
   </a>
 </p>
 
