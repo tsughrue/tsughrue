@@ -20,7 +20,7 @@ A software developer and financial data professional pursuing a part-time MS in 
 ## pwd
 
 
-🎓 Pursuing an MS in Computer Science & AI (part time)  
+🎓 Pursuing an MS in Computer Science & AI
 🔧 Strengthening my C and Java  
 🤖 Exploring how AI, ML, and agents can optimize and automate problem solving
 
