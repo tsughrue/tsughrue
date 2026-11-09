@@ -38,6 +38,6 @@ A software developer and financial data professional pursuing a part-time MS in 
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn- Let's Connect!-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/timothysughrue"><img src="https://img.shields.io/badge/LinkedIn- Let's Connect!-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 </p>
